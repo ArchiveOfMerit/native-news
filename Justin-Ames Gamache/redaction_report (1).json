@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "method": "true PDF redaction with PyMuPDF redaction annotations and garbage collection",
+  "redaction_operations": 2,
+  "long_numeric_identifiers_in_extracted_text": [],
+  "redacted_pdf_sha256": "718a17f8038b3344e01913b9fe656d4af845042d7779a43d2ff5bfc78e476faf",
+  "visual_pages_rendered": [
+    "media/transcript_pages/transcript_page_1.png",
+    "media/transcript_pages/transcript_page_2.png"
+  ]
+}
